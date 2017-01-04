@@ -1,0 +1,27 @@
+/*--HEADER --*/
+.navbar{
+	margin-bottom: 0;
+}
+
+.jumbotron-fm {
+	background-color: #58ACFA;
+	color: #fff;
+	padding-top: 20px;
+	padding-bottom: 10px
+}
+
+
+.jumbotron-fm .media-heading{
+	margin-top: 20px;
+}
+
+.jumbotron-fm .media-body > p{
+	color: #585858;
+	margin-bottom: 0px;
+}
+
+
+.carousel{
+	margin-top: -30px;
+}
+
