@@ -1,3 +1,5 @@
+
+
 /*--HEADER --*/
 .navbar{
 	margin-bottom: 0;
@@ -7,7 +9,8 @@
 	background-color: #58ACFA;
 	color: #fff;
 	padding-top: 20px;
-	padding-bottom: 10px
+	padding-bottom: 10px;
+	margin-bottom:0px;
 }
 
 
@@ -20,8 +23,50 @@
 	margin-bottom: 0px;
 }
 
+.post {
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+	border-bottom: 1px solid #999;
+}
 
-.carousel{
-	margin-top: -30px;
+.negocios{
+	margin-right: 25px;
+}
+
+.titulo1{
+	margin: 0px 0px 0px 0px;
+}
+
+.breadcrumb {
+	    margin-bottom: -15px;
+	}
+
+.page-header {
+	margin: 40px 0 20px 30px;
+}
+
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+            background-image:none !important;
+        }
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+          background-color: #D8D8D8;
+        }
+
+.articulos {
+	margin-bottom: 20px;
+}
+
+/*centrar anuncio para mobiles*/
+@media screen and (max-width:768px){
+	.centrar {
+		width: 100%;
+		text-align: center;
+	
+	}
+}
+
+.thumbnail2:hover {
+    opacity: 0.5;
+    text-decoration: none;
 }
 
