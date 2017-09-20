@@ -63,6 +63,11 @@
 		text-align: center;
 	
 	}
+
+	.container{
+		padding-right: 30px;
+		padding-left: 30px;
+	}
 }
 
 .thumbnail2:hover {
