@@ -63,6 +63,10 @@
 		text-align: center;
 	
 	}
+	.jumbotron-fm .media-body > p{
+	color: #585858;
+	margin-bottom: 0px;
+}
 
 	.container{
 		padding-right: 30px;
